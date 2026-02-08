@@ -5,7 +5,6 @@ Flipper app to ensure that you don't miss parts of your show when using the bath
 ## Use cases
 - Pause a show when an ad break ends in case you're away from the TV.
 - Set a timer to turn off your TV to enforce screen time limits.
-- 
 
 ## Installation
 
